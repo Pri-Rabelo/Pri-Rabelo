@@ -32,3 +32,20 @@
    <a href="https://discord.gg/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
     <a href="https://www.linkedin.com/in/priscilarabelo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  
+  <!-- light mode -->
+  <div align=center>
+    <a href="https://github.com/Pri-Rabelo#gh-light-mode-only" title="Pri-Rabelo profile">
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Pri-Rabelo&theme=buefy&border=61dafb&hide_border=true#gh-light-mode-only" alt="Pri-Rabelo" />
+      <img width=396 src="https://github-readme-stats.vercel.app/api?username=Pri-Rabelo&show_icons=true&theme=buefy&border_color=61dafb&hide_border=true#gh-light-mode-only" />
+      <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pri-Rabelo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&langs_count=8&layout=compact&border_color=61dafb&hide_border=true#gh-light-mode-only" />
+    </a>
+  </div>
+  <!-- dark mode -->
+  <div align=center>
+    <a href="https://github.com/Pri-Rabelo#gh-dark-mode-only" title="Pri-Rabelo profile">
+      <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=Pri-Rabelo&theme=aura&border=61dafb&hide_border=true#gh-dark-mode-only" alt="Pri-Rabelo" />
+      <img width=396 src="https://github-readme-stats.vercel.app/api?username=Pri-Rabelo&show_icons=true&theme=aura&border_color=61dafb&hide_border=true#gh-dark-mode-only" />
+      <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pri-Rabelo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true#gh-dark-mode-only" />
+    </a>
+  </div>
