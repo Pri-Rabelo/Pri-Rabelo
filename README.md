@@ -1,6 +1,6 @@
 ### Olá! Eu sou a Priscila Rabelo 👋
 
-- 🖥️ Estudando Desenvolvimento Web Full Stack na Trybe| Turma XP
+- 🖥️ Estudando Desenvolvimento Web na Trybe| Turma XP
 - 📧 Email: priscilarabelo_2002@yahoo.com.br
 - 😄 Pronome: Ela/Dela
 <div align="center">
