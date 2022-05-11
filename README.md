@@ -8,6 +8,9 @@
 - 📧 Email: **priscilarabelo_2002@yahoo.com.br**
 - 😄 Pronome: Ela/Dela
 
+
+<img align="right" alt="GIF" src="https://media2.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif?cid=ecf05e47929ni0onsq8hbdd14uukpcay9uyux6mh8sfn7h3x&rid=giphy.gif&ct=g" width="300px" />
+
  <!-- light mode -->
   <div align=center>
     <a href="https://github.com/Pri-Rabelo#gh-light-mode-only" title="Pri-Rabelo profile">
@@ -24,9 +27,6 @@
       <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pri-Rabelo&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true#gh-dark-mode-only" />
     </a>
   </div>
-
-
-<img align="right" alt="GIF" src="https://media2.giphy.com/media/oy83DwqHRcR1jJczV3/giphy.gif?cid=ecf05e47929ni0onsq8hbdd14uukpcay9uyux6mh8sfn7h3x&rid=giphy.gif&ct=g" width="300px" />
 
 <div align="center">
   <a href="https://github.com/Pri-Rabelo">
