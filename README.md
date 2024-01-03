@@ -3,7 +3,7 @@
 - 🏡 moro em Pindamonhangaba, interior de São Paulo
 - 👩‍❤️‍👨 casada com o Gideão 
 - 👩‍👧 mãe da Hadassa e da Débora
-- 🖥️ Estudando Desenvolvimento Web na Trybe| Turma XP
+- 🖥️ formada em Desenvolvimento Web na Trybe |
 - 📧 Email: **priscilarabelo_2002@yahoo.com.br**
 - 😄 Pronome: Ela/Dela
 
